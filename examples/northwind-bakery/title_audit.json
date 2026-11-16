@@ -1,0 +1,533 @@
+{
+  "totals": {
+    "pages_checked": 21,
+    "pages_with_issues": 11,
+    "pages_matched_to_search_console": 20,
+    "issue_counts": {
+      "title_too_short": 7,
+      "title_duplicate": 4,
+      "description_too_short": 2,
+      "low_click_rate": 2,
+      "title_misses_target_keyword": 2,
+      "description_duplicate": 2,
+      "title_too_long": 1,
+      "description_missing": 1
+    }
+  },
+  "brand_suffix": {
+    "text": " | Northwind Bakery",
+    "share_of_titles_pct": 90.5
+  },
+  "site_click_rate_by_position": {
+    "positions 1 to 3": 14.21,
+    "positions 4 to 6": 4.4,
+    "positions 7 to 10": 1.75
+  },
+  "rewrite_queue": [
+    "https://www.northwindbakery.example/blog/sourdough-bread-recipe",
+    "https://www.northwindbakery.example/blog/sourdough-starter-guide",
+    "https://www.northwindbakery.example/blog/cinnamon-rolls",
+    "https://www.northwindbakery.example/",
+    "https://www.northwindbakery.example/blog/gluten-free-bread",
+    "https://www.northwindbakery.example/cakes/birthday",
+    "https://www.northwindbakery.example/menu",
+    "https://www.northwindbakery.example/locations",
+    "https://www.northwindbakery.example/contact",
+    "https://www.northwindbakery.example/about",
+    "https://www.northwindbakery.example/blog"
+  ],
+  "pages": [
+    {
+      "url": "https://www.northwindbakery.example/",
+      "title": "Northwind Bakery",
+      "title_chars": 16,
+      "description": "Fresh bread, pastries and cakes baked every morning in our ovens. See what is coming out today and order ahead.",
+      "description_chars": 111,
+      "h1": "Baked fresh every morning",
+      "issues": [
+        "title_too_short",
+        "title_duplicate"
+      ],
+      "issue_text": [
+        "Title is short and may undersell the page",
+        "Same title as another page"
+      ],
+      "search_console": {
+        "clicks": 3038,
+        "impressions": 9800,
+        "ctr_pct": 31.0,
+        "position": 1.2,
+        "position_band": "positions 1 to 3",
+        "band_median_ctr_pct": 14.21
+      },
+      "top_queries": [],
+      "target_keyword": "bakery near me"
+    },
+    {
+      "url": "https://www.northwindbakery.example/about",
+      "title": "Northwind Bakery",
+      "title_chars": 16,
+      "description": "Our story.",
+      "description_chars": 10,
+      "h1": "About us",
+      "issues": [
+        "title_too_short",
+        "title_duplicate",
+        "description_too_short"
+      ],
+      "issue_text": [
+        "Title is short and may undersell the page",
+        "Same title as another page",
+        "Description is short"
+      ],
+      "search_console": {
+        "clicks": 81,
+        "impressions": 900,
+        "ctr_pct": 9.0,
+        "position": 2.8,
+        "position_band": "positions 1 to 3",
+        "band_median_ctr_pct": 14.21
+      },
+      "top_queries": [],
+      "target_keyword": null
+    },
+    {
+      "url": "https://www.northwindbakery.example/menu",
+      "title": "Menu | Northwind Bakery",
+      "title_chars": 23,
+      "description": "Browse the full Northwind Bakery menu: breads, pastries, cakes, coffee and seasonal specials, with prices.",
+      "description_chars": 106,
+      "h1": "Our menu",
+      "issues": [
+        "title_too_short"
+      ],
+      "issue_text": [
+        "Title is short and may undersell the page"
+      ],
+      "search_console": {
+        "clicks": 758,
+        "impressions": 4100,
+        "ctr_pct": 18.49,
+        "position": 2.1,
+        "position_band": "positions 1 to 3",
+        "band_median_ctr_pct": 14.21
+      },
+      "top_queries": [],
+      "target_keyword": null
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog",
+      "title": "Blog | Northwind Bakery",
+      "title_chars": 23,
+      "description": "Recipes, baking tips and stories from the Northwind Bakery kitchen, written by the people who bake your bread.",
+      "description_chars": 110,
+      "h1": "From the kitchen",
+      "issues": [
+        "title_too_short",
+        "title_duplicate"
+      ],
+      "issue_text": [
+        "Title is short and may undersell the page",
+        "Same title as another page"
+      ],
+      "search_console": null,
+      "top_queries": [],
+      "target_keyword": null
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog/sourdough-bread-recipe",
+      "title": "Sourdough | Northwind Bakery",
+      "title_chars": 28,
+      "description": "Our head baker shares the loaf we sell out of every day, with timings, photos of each stage and fixes for common problems.",
+      "description_chars": 122,
+      "h1": "Our Sourdough Bread Recipe",
+      "issues": [
+        "title_too_short",
+        "low_click_rate",
+        "title_misses_target_keyword"
+      ],
+      "issue_text": [
+        "Title is short and may undersell the page",
+        "Click rate is low for where it ranks, compared with this site's other pages",
+        "Title does not contain the target keyword from the keyword plan"
+      ],
+      "search_console": {
+        "clicks": 462,
+        "impressions": 42000,
+        "ctr_pct": 1.1,
+        "position": 5.2,
+        "position_band": "positions 4 to 6",
+        "band_median_ctr_pct": 4.4
+      },
+      "top_queries": [],
+      "target_keyword": "sourdough bread recipe"
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog/sourdough-starter-guide",
+      "title": "How to Make a Sourdough Starter From Scratch: The Complete Step-by-Step Guide for Beginners | Northwind Bakery",
+      "title_chars": 110,
+      "description": "A day-by-day guide to growing a lively sourdough starter from flour and water, including what to do when it stalls.",
+      "description_chars": 115,
+      "h1": "How to Make a Sourdough Starter",
+      "issues": [
+        "title_too_long"
+      ],
+      "issue_text": [
+        "Title is likely to be cut off in search results"
+      ],
+      "search_console": {
+        "clicks": 1096,
+        "impressions": 21500,
+        "ctr_pct": 5.1,
+        "position": 4.8,
+        "position_band": "positions 4 to 6",
+        "band_median_ctr_pct": 4.4
+      },
+      "top_queries": [],
+      "target_keyword": "sourdough starter"
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog/gluten-free-bread",
+      "title": "Gluten Free Bread Recipe That Rises | Northwind Bakery",
+      "title_chars": 54,
+      "description": "",
+      "description_chars": 0,
+      "h1": "Gluten Free Bread Recipe",
+      "issues": [
+        "description_missing"
+      ],
+      "issue_text": [
+        "No meta description"
+      ],
+      "search_console": {
+        "clicks": 374,
+        "impressions": 9600,
+        "ctr_pct": 3.9,
+        "position": 6.0,
+        "position_band": "positions 4 to 6",
+        "band_median_ctr_pct": 4.4
+      },
+      "top_queries": [],
+      "target_keyword": "gluten free bread"
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog/croissant-recipe",
+      "title": "Croissant Recipe: Buttery Layers at Home | Northwind Bakery",
+      "title_chars": 59,
+      "description": "Laminated dough without the fear. Our croissant recipe breaks the folds into simple steps you can spread over two days.",
+      "description_chars": 119,
+      "h1": "Croissant Recipe",
+      "issues": [],
+      "issue_text": [],
+      "search_console": {
+        "clicks": 496,
+        "impressions": 11800,
+        "ctr_pct": 4.2,
+        "position": 5.5,
+        "position_band": "positions 4 to 6",
+        "band_median_ctr_pct": 4.4
+      },
+      "top_queries": [],
+      "target_keyword": "croissant recipe"
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog/cinnamon-rolls",
+      "title": "Blog | Northwind Bakery",
+      "title_chars": 23,
+      "description": "Soft, sticky cinnamon rolls you shape the night before and bake in the morning. Includes the cream cheese glaze we use in the shop.",
+      "description_chars": 131,
+      "h1": "Overnight Cinnamon Roll Recipe",
+      "issues": [
+        "title_too_short",
+        "title_duplicate",
+        "title_misses_target_keyword"
+      ],
+      "issue_text": [
+        "Title is short and may undersell the page",
+        "Same title as another page",
+        "Title does not contain the target keyword from the keyword plan"
+      ],
+      "search_console": {
+        "clicks": 669,
+        "impressions": 15200,
+        "ctr_pct": 4.4,
+        "position": 5.9,
+        "position_band": "positions 4 to 6",
+        "band_median_ctr_pct": 4.4
+      },
+      "top_queries": [],
+      "target_keyword": "cinnamon roll recipe"
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog/how-to-store-bread",
+      "title": "How to Store Bread So It Stays Fresh | Northwind Bakery",
+      "title_chars": 55,
+      "description": "Counter, bread box, fridge or freezer? How to store each kind of bread so the crust and crumb last as long as possible.",
+      "description_chars": 119,
+      "h1": "How to Store Bread",
+      "issues": [],
+      "issue_text": [],
+      "search_console": {
+        "clicks": 444,
+        "impressions": 7400,
+        "ctr_pct": 6.0,
+        "position": 4.1,
+        "position_band": "positions 4 to 6",
+        "band_median_ctr_pct": 4.4
+      },
+      "top_queries": [],
+      "target_keyword": "how to store bread"
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog/baking-tips",
+      "title": "12 Baking Tips From Our Bakers | Northwind Bakery",
+      "title_chars": 49,
+      "description": "Small habits that make a big difference at home, from weighing flour to reading your oven, shared by the Northwind team.",
+      "description_chars": 120,
+      "h1": "Baking tips",
+      "issues": [],
+      "issue_text": [],
+      "search_console": {
+        "clicks": 17,
+        "impressions": 1400,
+        "ctr_pct": 1.21,
+        "position": 14.3,
+        "position_band": "positions 11 to 20",
+        "band_median_ctr_pct": null
+      },
+      "top_queries": [],
+      "target_keyword": null
+    },
+    {
+      "url": "https://www.northwindbakery.example/cakes/birthday",
+      "title": "Birthday Cakes | Northwind Bakery",
+      "title_chars": 33,
+      "description": "Cakes for birthdays.",
+      "description_chars": 20,
+      "h1": "Birthday Cakes",
+      "issues": [
+        "description_too_short",
+        "low_click_rate"
+      ],
+      "issue_text": [
+        "Description is short",
+        "Click rate is low for where it ranks, compared with this site's other pages"
+      ],
+      "search_console": {
+        "clicks": 44,
+        "impressions": 8700,
+        "ctr_pct": 0.51,
+        "position": 8.2,
+        "position_band": "positions 7 to 10",
+        "band_median_ctr_pct": 1.75
+      },
+      "top_queries": [],
+      "target_keyword": "birthday cake near me"
+    },
+    {
+      "url": "https://www.northwindbakery.example/cakes/wedding",
+      "title": "Wedding Cakes and Prices | Northwind Bakery",
+      "title_chars": 43,
+      "description": "See our wedding cake styles, flavors and starting prices, then book a free tasting with our cake designer.",
+      "description_chars": 106,
+      "h1": "Wedding Cakes",
+      "issues": [],
+      "issue_text": [],
+      "search_console": {
+        "clicks": 109,
+        "impressions": 5200,
+        "ctr_pct": 2.1,
+        "position": 7.5,
+        "position_band": "positions 7 to 10",
+        "band_median_ctr_pct": 1.75
+      },
+      "top_queries": [],
+      "target_keyword": "wedding cake prices"
+    },
+    {
+      "url": "https://www.northwindbakery.example/classes",
+      "title": "Bread Baking Classes | Northwind Bakery",
+      "title_chars": 39,
+      "description": "Hands-on bread baking classes for beginners and keen home bakers, held on weekends in our production kitchen.",
+      "description_chars": 109,
+      "h1": "Bread Baking Classes",
+      "issues": [],
+      "issue_text": [],
+      "search_console": {
+        "clicks": 143,
+        "impressions": 2600,
+        "ctr_pct": 5.5,
+        "position": 4.4,
+        "position_band": "positions 4 to 6",
+        "band_median_ctr_pct": 4.4
+      },
+      "top_queries": [],
+      "target_keyword": "bread baking class"
+    },
+    {
+      "url": "https://www.northwindbakery.example/bread",
+      "title": "Our Breads: Sourdough, Rye, Baguettes | Northwind Bakery",
+      "title_chars": 56,
+      "description": "Sourdough, seeded rye, baguettes and soft sandwich loaves, baked from scratch each morning with long, slow fermentation.",
+      "description_chars": 120,
+      "h1": "Our breads",
+      "issues": [],
+      "issue_text": [],
+      "search_console": {
+        "clicks": 91,
+        "impressions": 4800,
+        "ctr_pct": 1.9,
+        "position": 8.8,
+        "position_band": "positions 7 to 10",
+        "band_median_ctr_pct": 1.75
+      },
+      "top_queries": [],
+      "target_keyword": null
+    },
+    {
+      "url": "https://www.northwindbakery.example/pastries",
+      "title": "Pastries and Viennoiserie | Northwind Bakery",
+      "title_chars": 44,
+      "description": "Croissants, pain au chocolat, danishes and seasonal fruit tarts, laminated by hand and baked in small batches all day.",
+      "description_chars": 118,
+      "h1": "Pastries",
+      "issues": [],
+      "issue_text": [],
+      "search_console": {
+        "clicks": 50,
+        "impressions": 3100,
+        "ctr_pct": 1.61,
+        "position": 9.0,
+        "position_band": "positions 7 to 10",
+        "band_median_ctr_pct": 1.75
+      },
+      "top_queries": [],
+      "target_keyword": null
+    },
+    {
+      "url": "https://www.northwindbakery.example/catering",
+      "title": "Bakery Catering for Offices and Events | Northwind Bakery",
+      "title_chars": 57,
+      "description": "Breakfast platters, sandwich boxes and dessert tables for meetings and celebrations, delivered across the city.",
+      "description_chars": 111,
+      "h1": "Catering",
+      "issues": [],
+      "issue_text": [],
+      "search_console": {
+        "clicks": 46,
+        "impressions": 1900,
+        "ctr_pct": 2.42,
+        "position": 7.2,
+        "position_band": "positions 7 to 10",
+        "band_median_ctr_pct": 1.75
+      },
+      "top_queries": [],
+      "target_keyword": null
+    },
+    {
+      "url": "https://www.northwindbakery.example/order",
+      "title": "Order Online for Pickup | Northwind Bakery",
+      "title_chars": 42,
+      "description": "Order bread, pastries and cakes online and collect from your nearest Northwind Bakery at a time that suits you.",
+      "description_chars": 111,
+      "h1": "Order online",
+      "issues": [],
+      "issue_text": [],
+      "search_console": {
+        "clicks": 33,
+        "impressions": 2200,
+        "ctr_pct": 1.5,
+        "position": 9.5,
+        "position_band": "positions 7 to 10",
+        "band_median_ctr_pct": 1.75
+      },
+      "top_queries": [],
+      "target_keyword": null
+    },
+    {
+      "url": "https://www.northwindbakery.example/locations",
+      "title": "Our Locations and Opening Hours | Northwind Bakery",
+      "title_chars": 50,
+      "description": "Find your nearest Northwind Bakery, with opening hours, parking and directions for all three of our shops.",
+      "description_chars": 106,
+      "h1": "Find us",
+      "issues": [
+        "description_duplicate"
+      ],
+      "issue_text": [
+        "Same description as another page"
+      ],
+      "search_console": {
+        "clicks": 469,
+        "impressions": 3300,
+        "ctr_pct": 14.21,
+        "position": 2.5,
+        "position_band": "positions 1 to 3",
+        "band_median_ctr_pct": 14.21
+      },
+      "top_queries": [],
+      "target_keyword": null
+    },
+    {
+      "url": "https://www.northwindbakery.example/contact",
+      "title": "Contact Us | Northwind Bakery",
+      "title_chars": 29,
+      "description": "Find your nearest Northwind Bakery, with opening hours, parking and directions for all three of our shops.",
+      "description_chars": 106,
+      "h1": "Get in touch",
+      "issues": [
+        "title_too_short",
+        "description_duplicate"
+      ],
+      "issue_text": [
+        "Title is short and may undersell the page",
+        "Same description as another page"
+      ],
+      "search_console": {
+        "clicks": 97,
+        "impressions": 1200,
+        "ctr_pct": 8.08,
+        "position": 3.0,
+        "position_band": "positions 1 to 3",
+        "band_median_ctr_pct": 14.21
+      },
+      "top_queries": [],
+      "target_keyword": null
+    },
+    {
+      "url": "https://www.northwindbakery.example/gift-cards",
+      "title": "Bakery Gift Cards | Northwind Bakery",
+      "title_chars": 36,
+      "description": "Give the gift of fresh bread. Northwind Bakery gift cards can be used in any of our shops or for online orders.",
+      "description_chars": 111,
+      "h1": "Gift cards",
+      "issues": [],
+      "issue_text": [],
+      "search_console": {
+        "clicks": 3,
+        "impressions": 60,
+        "ctr_pct": 5.0,
+        "position": 11.0,
+        "position_band": "positions 11 to 20",
+        "band_median_ctr_pct": null
+      },
+      "top_queries": [],
+      "target_keyword": null
+    }
+  ],
+  "thresholds": {
+    "title_min_chars": 30,
+    "title_max_chars": 60,
+    "description_min_chars": 70,
+    "description_max_chars": 155,
+    "low_ctr_min_impressions": 100,
+    "low_ctr_min_pages_in_band": 5,
+    "low_ctr_share_of_band_median": 0.5,
+    "brand_suffix_min_share_pct": 50,
+    "rewrite_queue_size": 40
+  },
+  "notes": [
+    "no page and query pairs, so titles could not be checked against each page's top query"
+  ],
+  "client": "Northwind Bakery"
+}

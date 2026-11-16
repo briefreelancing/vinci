@@ -1,0 +1,50 @@
+{
+  "client": "Northwind Bakery",
+  "files": [
+    {
+      "file": "crawl_internal_html.csv",
+      "read_as": "site crawl",
+      "rows": 21
+    },
+    {
+      "file": "gsc_pages.csv",
+      "read_as": "Search Console pages",
+      "rows": 20
+    },
+    {
+      "file": "keyword_research.csv",
+      "read_as": "keyword list",
+      "rows": 44
+    }
+  ],
+  "notes": [
+    "crawl_internal_html.csv: left out 1 not HTML, 1 not status 200, 1 non-indexable page(s)"
+  ],
+  "produced": [
+    "clusters.json",
+    "keyword_clusters.csv",
+    "title_audit.json"
+  ],
+  "keywords": {
+    "keywords": 43,
+    "clusters": 15,
+    "total_demand": 480800,
+    "refresh_existing_page": 11,
+    "new_page": 4
+  },
+  "titles": {
+    "pages_checked": 21,
+    "pages_with_issues": 11,
+    "pages_matched_to_search_console": 20,
+    "issue_counts": {
+      "title_too_short": 7,
+      "title_duplicate": 4,
+      "description_too_short": 2,
+      "low_click_rate": 2,
+      "title_misses_target_keyword": 2,
+      "description_duplicate": 2,
+      "title_too_long": 1,
+      "description_missing": 1
+    }
+  }
+}

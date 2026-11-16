@@ -1,0 +1,44 @@
+﻿cluster_id,primary_keyword,keyword,demand,difficulty,intent,position,url,action
+1,bakery near me,bakery near me,135000,71.0,local,,,refresh existing page
+1,bakery near me,best bakery near me,9900,60.0,local,,,refresh existing page
+2,sourdough bread recipe,sourdough bread recipe,40500,62.0,informational,,,refresh existing page
+2,sourdough bread recipe,how to make sourdough bread,12100,58.0,informational,,,refresh existing page
+2,sourdough bread recipe,easy sourdough bread recipe,8100,48.0,informational,,,refresh existing page
+2,sourdough bread recipe,sourdough bread recipe for beginners,5400,41.0,informational,,,refresh existing page
+2,sourdough bread recipe,best sourdough bread recipe,2400,50.0,commercial,,,refresh existing page
+3,cinnamon roll recipe,cinnamon roll recipe,49500,60.0,informational,,,refresh existing page
+3,cinnamon roll recipe,overnight cinnamon rolls,6600,40.0,informational,,,refresh existing page
+3,cinnamon roll recipe,best cinnamon rolls,5400,48.0,commercial,,,refresh existing page
+3,cinnamon roll recipe,cinnamon rolls near me,4400,35.0,local,,,refresh existing page
+4,sourdough starter,sourdough starter,33100,55.0,informational,,,refresh existing page
+4,sourdough starter,how to make sourdough starter,14800,47.0,informational,,,refresh existing page
+4,sourdough starter,sourdough starter recipe,9900,45.0,informational,,,refresh existing page
+4,sourdough starter,how to feed sourdough starter,3600,30.0,informational,,,refresh existing page
+4,sourdough starter,sourdough starter from scratch,1900,33.0,informational,,,refresh existing page
+5,gluten free bread,gluten free bread,18100,52.0,commercial,,,refresh existing page
+5,gluten free bread,gluten free bread recipe,12100,44.0,informational,,,refresh existing page
+5,gluten free bread,best gluten free bread,4400,40.0,commercial,,,refresh existing page
+5,gluten free bread,gluten free bread near me,1600,28.0,local,,,refresh existing page
+6,croissant recipe,croissant recipe,14800,54.0,informational,,,refresh existing page
+6,croissant recipe,how to make croissants,9900,50.0,informational,,,refresh existing page
+6,croissant recipe,chocolate croissant recipe,3600,44.0,informational,,,refresh existing page
+6,croissant recipe,easy croissant recipe,2900,42.0,informational,,,refresh existing page
+7,birthday cake near me,birthday cake near me,8100,39.0,local,,,refresh existing page
+7,birthday cake near me,birthday cake delivery,6600,38.0,transactional,,,refresh existing page
+7,birthday cake near me,custom birthday cakes,4400,36.0,commercial,,,refresh existing page
+7,birthday cake near me,order birthday cake online,2900,35.0,transactional,,,refresh existing page
+8,wedding cake prices,wedding cake prices,5400,33.0,commercial,,,refresh existing page
+8,wedding cake prices,wedding cake cost,3600,31.0,commercial,,,refresh existing page
+8,wedding cake prices,how much does a wedding cake cost,2400,29.0,informational,,,refresh existing page
+9,how to store bread,how to store bread,6600,30.0,informational,,,refresh existing page
+9,how to store bread,how to store sourdough bread,4400,25.0,informational,,,refresh existing page
+10,bakery open now,bakery open now,6600,55.0,local,,,new page
+11,bread baking class,bread baking class,2900,27.0,transactional,,,refresh existing page
+11,bread baking class,bread making classes near me,1900,24.0,local,,,refresh existing page
+11,bread baking class,baking classes for beginners,1600,26.0,commercial,,,refresh existing page
+12,can you freeze bread,can you freeze bread,5400,22.0,informational,,,new page
+13,how long does bread last,how long does bread last,3600,20.0,informational,,,new page
+14,northwind bakery,northwind bakery,1900,12.0,navigational,,,refresh existing page
+14,northwind bakery,northwind bakery menu,720,10.0,navigational,,,refresh existing page
+14,northwind bakery,northwind bakery hours,480,9.0,navigational,,,refresh existing page
+15,sourdough class,sourdough class,1300,22.0,transactional,,,new page

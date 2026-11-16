@@ -1,0 +1,810 @@
+{
+  "demand_type": "search volume",
+  "totals": {
+    "keywords": 43,
+    "clusters": 15,
+    "total_demand": 480800,
+    "refresh_existing_page": 11,
+    "new_page": 4
+  },
+  "brief_queue": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "clusters": [
+    {
+      "primary_keyword": "bakery near me",
+      "total_demand": 144900,
+      "keyword_count": 2,
+      "intent": "local",
+      "intent_mix_pct": {
+        "local": 100.0
+      },
+      "average_difficulty": 65.5,
+      "action": "refresh existing page",
+      "existing_page": {
+        "url": "https://www.northwindbakery.example/",
+        "title": "Northwind Bakery",
+        "matched_by": "words shared with the page title, H1 or URL (a suggestion, confirm it)"
+      },
+      "questions": [],
+      "common_modifiers": [
+        "best"
+      ],
+      "keywords": [
+        {
+          "keyword": "bakery near me",
+          "demand": 135000,
+          "difficulty": 71.0,
+          "intent": "local",
+          "intent_source": "word rule",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "best bakery near me",
+          "demand": 9900,
+          "difficulty": 60.0,
+          "intent": "local",
+          "intent_source": "word rule",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 1
+    },
+    {
+      "primary_keyword": "sourdough bread recipe",
+      "total_demand": 68500,
+      "keyword_count": 5,
+      "intent": "informational",
+      "intent_mix_pct": {
+        "informational": 96.5,
+        "commercial": 3.5
+      },
+      "average_difficulty": 51.8,
+      "action": "refresh existing page",
+      "existing_page": {
+        "url": "https://www.northwindbakery.example/blog/sourdough-bread-recipe",
+        "title": "Sourdough | Northwind Bakery",
+        "matched_by": "words shared with the page title, H1 or URL (a suggestion, confirm it)"
+      },
+      "questions": [
+        "how to make sourdough bread"
+      ],
+      "common_modifiers": [
+        "easy",
+        "beginner",
+        "best"
+      ],
+      "keywords": [
+        {
+          "keyword": "sourdough bread recipe",
+          "demand": 40500,
+          "difficulty": 62.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "how to make sourdough bread",
+          "demand": 12100,
+          "difficulty": 58.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "easy sourdough bread recipe",
+          "demand": 8100,
+          "difficulty": 48.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "sourdough bread recipe for beginners",
+          "demand": 5400,
+          "difficulty": 41.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "best sourdough bread recipe",
+          "demand": 2400,
+          "difficulty": 50.0,
+          "intent": "commercial",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 2
+    },
+    {
+      "primary_keyword": "cinnamon roll recipe",
+      "total_demand": 65900,
+      "keyword_count": 4,
+      "intent": "informational",
+      "intent_mix_pct": {
+        "informational": 85.1,
+        "commercial": 8.2,
+        "local": 6.7
+      },
+      "average_difficulty": 45.8,
+      "action": "refresh existing page",
+      "existing_page": {
+        "url": "https://www.northwindbakery.example/blog/cinnamon-rolls",
+        "title": "Blog | Northwind Bakery",
+        "matched_by": "words shared with the page title, H1 or URL (a suggestion, confirm it)"
+      },
+      "questions": [],
+      "common_modifiers": [
+        "overnight",
+        "best",
+        "near"
+      ],
+      "keywords": [
+        {
+          "keyword": "cinnamon roll recipe",
+          "demand": 49500,
+          "difficulty": 60.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "overnight cinnamon rolls",
+          "demand": 6600,
+          "difficulty": 40.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "best cinnamon rolls",
+          "demand": 5400,
+          "difficulty": 48.0,
+          "intent": "commercial",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "cinnamon rolls near me",
+          "demand": 4400,
+          "difficulty": 35.0,
+          "intent": "local",
+          "intent_source": "word rule",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 3
+    },
+    {
+      "primary_keyword": "sourdough starter",
+      "total_demand": 63300,
+      "keyword_count": 5,
+      "intent": "informational",
+      "intent_mix_pct": {
+        "informational": 100.0
+      },
+      "average_difficulty": 42.0,
+      "action": "refresh existing page",
+      "existing_page": {
+        "url": "https://www.northwindbakery.example/blog/sourdough-starter-guide",
+        "title": "How to Make a Sourdough Starter From Scratch: The Complete Step-by-Step Guide for Beginners | Northwind Bakery",
+        "matched_by": "words shared with the page title, H1 or URL (a suggestion, confirm it)"
+      },
+      "questions": [
+        "how to make sourdough starter",
+        "how to feed sourdough starter"
+      ],
+      "common_modifiers": [
+        "recipe",
+        "feed",
+        "scratch"
+      ],
+      "keywords": [
+        {
+          "keyword": "sourdough starter",
+          "demand": 33100,
+          "difficulty": 55.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "how to make sourdough starter",
+          "demand": 14800,
+          "difficulty": 47.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "sourdough starter recipe",
+          "demand": 9900,
+          "difficulty": 45.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "how to feed sourdough starter",
+          "demand": 3600,
+          "difficulty": 30.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "sourdough starter from scratch",
+          "demand": 1900,
+          "difficulty": 33.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 4
+    },
+    {
+      "primary_keyword": "gluten free bread",
+      "total_demand": 36200,
+      "keyword_count": 4,
+      "intent": "commercial",
+      "intent_mix_pct": {
+        "commercial": 62.2,
+        "informational": 33.4,
+        "local": 4.4
+      },
+      "average_difficulty": 41.0,
+      "action": "refresh existing page",
+      "existing_page": {
+        "url": "https://www.northwindbakery.example/blog/gluten-free-bread",
+        "title": "Gluten Free Bread Recipe That Rises | Northwind Bakery",
+        "matched_by": "words shared with the page title, H1 or URL (a suggestion, confirm it)"
+      },
+      "questions": [],
+      "common_modifiers": [
+        "recipe",
+        "best",
+        "near"
+      ],
+      "keywords": [
+        {
+          "keyword": "gluten free bread",
+          "demand": 18100,
+          "difficulty": 52.0,
+          "intent": "commercial",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "gluten free bread recipe",
+          "demand": 12100,
+          "difficulty": 44.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "best gluten free bread",
+          "demand": 4400,
+          "difficulty": 40.0,
+          "intent": "commercial",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "gluten free bread near me",
+          "demand": 1600,
+          "difficulty": 28.0,
+          "intent": "local",
+          "intent_source": "word rule",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 5
+    },
+    {
+      "primary_keyword": "croissant recipe",
+      "total_demand": 31200,
+      "keyword_count": 4,
+      "intent": "informational",
+      "intent_mix_pct": {
+        "informational": 100.0
+      },
+      "average_difficulty": 47.5,
+      "action": "refresh existing page",
+      "existing_page": {
+        "url": "https://www.northwindbakery.example/blog/croissant-recipe",
+        "title": "Croissant Recipe: Buttery Layers at Home | Northwind Bakery",
+        "matched_by": "words shared with the page title, H1 or URL (a suggestion, confirm it)"
+      },
+      "questions": [
+        "how to make croissants"
+      ],
+      "common_modifiers": [
+        "chocolate",
+        "easy"
+      ],
+      "keywords": [
+        {
+          "keyword": "croissant recipe",
+          "demand": 14800,
+          "difficulty": 54.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "how to make croissants",
+          "demand": 9900,
+          "difficulty": 50.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "chocolate croissant recipe",
+          "demand": 3600,
+          "difficulty": 44.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "easy croissant recipe",
+          "demand": 2900,
+          "difficulty": 42.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 6
+    },
+    {
+      "primary_keyword": "birthday cake near me",
+      "total_demand": 22000,
+      "keyword_count": 4,
+      "intent": "transactional",
+      "intent_mix_pct": {
+        "transactional": 43.2,
+        "local": 36.8,
+        "commercial": 20.0
+      },
+      "average_difficulty": 37.0,
+      "action": "refresh existing page",
+      "existing_page": {
+        "url": "https://www.northwindbakery.example/cakes/birthday",
+        "title": "Birthday Cakes | Northwind Bakery",
+        "matched_by": "words shared with the page title, H1 or URL (a suggestion, confirm it)"
+      },
+      "questions": [],
+      "common_modifiers": [
+        "delivery",
+        "custom",
+        "order",
+        "online"
+      ],
+      "keywords": [
+        {
+          "keyword": "birthday cake near me",
+          "demand": 8100,
+          "difficulty": 39.0,
+          "intent": "local",
+          "intent_source": "word rule",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "birthday cake delivery",
+          "demand": 6600,
+          "difficulty": 38.0,
+          "intent": "transactional",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "custom birthday cakes",
+          "demand": 4400,
+          "difficulty": 36.0,
+          "intent": "commercial",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "order birthday cake online",
+          "demand": 2900,
+          "difficulty": 35.0,
+          "intent": "transactional",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 7
+    },
+    {
+      "primary_keyword": "wedding cake prices",
+      "total_demand": 11400,
+      "keyword_count": 3,
+      "intent": "commercial",
+      "intent_mix_pct": {
+        "commercial": 78.9,
+        "informational": 21.1
+      },
+      "average_difficulty": 31.0,
+      "action": "refresh existing page",
+      "existing_page": {
+        "url": "https://www.northwindbakery.example/cakes/wedding",
+        "title": "Wedding Cakes and Prices | Northwind Bakery",
+        "matched_by": "words shared with the page title, H1 or URL (a suggestion, confirm it)"
+      },
+      "questions": [
+        "how much does a wedding cake cost"
+      ],
+      "common_modifiers": [
+        "cost"
+      ],
+      "keywords": [
+        {
+          "keyword": "wedding cake prices",
+          "demand": 5400,
+          "difficulty": 33.0,
+          "intent": "commercial",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "wedding cake cost",
+          "demand": 3600,
+          "difficulty": 31.0,
+          "intent": "commercial",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "how much does a wedding cake cost",
+          "demand": 2400,
+          "difficulty": 29.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 8
+    },
+    {
+      "primary_keyword": "how to store bread",
+      "total_demand": 11000,
+      "keyword_count": 2,
+      "intent": "informational",
+      "intent_mix_pct": {
+        "informational": 100.0
+      },
+      "average_difficulty": 27.5,
+      "action": "refresh existing page",
+      "existing_page": {
+        "url": "https://www.northwindbakery.example/blog/how-to-store-bread",
+        "title": "How to Store Bread So It Stays Fresh | Northwind Bakery",
+        "matched_by": "words shared with the page title, H1 or URL (a suggestion, confirm it)"
+      },
+      "questions": [
+        "how to store bread",
+        "how to store sourdough bread"
+      ],
+      "common_modifiers": [
+        "sourdough"
+      ],
+      "keywords": [
+        {
+          "keyword": "how to store bread",
+          "demand": 6600,
+          "difficulty": 30.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "how to store sourdough bread",
+          "demand": 4400,
+          "difficulty": 25.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 9
+    },
+    {
+      "primary_keyword": "bakery open now",
+      "total_demand": 6600,
+      "keyword_count": 1,
+      "intent": "local",
+      "intent_mix_pct": {
+        "local": 100.0
+      },
+      "average_difficulty": 55.0,
+      "action": "new page",
+      "existing_page": null,
+      "questions": [],
+      "common_modifiers": [],
+      "keywords": [
+        {
+          "keyword": "bakery open now",
+          "demand": 6600,
+          "difficulty": 55.0,
+          "intent": "local",
+          "intent_source": "word rule",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 10
+    },
+    {
+      "primary_keyword": "bread baking class",
+      "total_demand": 6400,
+      "keyword_count": 3,
+      "intent": "transactional",
+      "intent_mix_pct": {
+        "transactional": 45.3,
+        "local": 29.7,
+        "commercial": 25.0
+      },
+      "average_difficulty": 25.7,
+      "action": "refresh existing page",
+      "existing_page": {
+        "url": "https://www.northwindbakery.example/classes",
+        "title": "Bread Baking Classes | Northwind Bakery",
+        "matched_by": "words shared with the page title, H1 or URL (a suggestion, confirm it)"
+      },
+      "questions": [],
+      "common_modifiers": [
+        "near",
+        "beginner"
+      ],
+      "keywords": [
+        {
+          "keyword": "bread baking class",
+          "demand": 2900,
+          "difficulty": 27.0,
+          "intent": "transactional",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "bread making classes near me",
+          "demand": 1900,
+          "difficulty": 24.0,
+          "intent": "local",
+          "intent_source": "word rule",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "baking classes for beginners",
+          "demand": 1600,
+          "difficulty": 26.0,
+          "intent": "commercial",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 11
+    },
+    {
+      "primary_keyword": "can you freeze bread",
+      "total_demand": 5400,
+      "keyword_count": 1,
+      "intent": "informational",
+      "intent_mix_pct": {
+        "informational": 100.0
+      },
+      "average_difficulty": 22.0,
+      "action": "new page",
+      "existing_page": null,
+      "questions": [
+        "can you freeze bread"
+      ],
+      "common_modifiers": [],
+      "keywords": [
+        {
+          "keyword": "can you freeze bread",
+          "demand": 5400,
+          "difficulty": 22.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 12
+    },
+    {
+      "primary_keyword": "how long does bread last",
+      "total_demand": 3600,
+      "keyword_count": 1,
+      "intent": "informational",
+      "intent_mix_pct": {
+        "informational": 100.0
+      },
+      "average_difficulty": 20.0,
+      "action": "new page",
+      "existing_page": null,
+      "questions": [
+        "how long does bread last"
+      ],
+      "common_modifiers": [],
+      "keywords": [
+        {
+          "keyword": "how long does bread last",
+          "demand": 3600,
+          "difficulty": 20.0,
+          "intent": "informational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 13
+    },
+    {
+      "primary_keyword": "northwind bakery",
+      "total_demand": 3100,
+      "keyword_count": 3,
+      "intent": "navigational",
+      "intent_mix_pct": {
+        "navigational": 100.0
+      },
+      "average_difficulty": 10.3,
+      "action": "refresh existing page",
+      "existing_page": {
+        "url": "https://www.northwindbakery.example/",
+        "title": "Northwind Bakery",
+        "matched_by": "words shared with the page title, H1 or URL (a suggestion, confirm it)"
+      },
+      "questions": [],
+      "common_modifiers": [
+        "menu",
+        "hour"
+      ],
+      "keywords": [
+        {
+          "keyword": "northwind bakery",
+          "demand": 1900,
+          "difficulty": 12.0,
+          "intent": "navigational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "northwind bakery menu",
+          "demand": 720,
+          "difficulty": 10.0,
+          "intent": "navigational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        },
+        {
+          "keyword": "northwind bakery hours",
+          "demand": 480,
+          "difficulty": 9.0,
+          "intent": "navigational",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 14
+    },
+    {
+      "primary_keyword": "sourdough class",
+      "total_demand": 1300,
+      "keyword_count": 1,
+      "intent": "transactional",
+      "intent_mix_pct": {
+        "transactional": 100.0
+      },
+      "average_difficulty": 22.0,
+      "action": "new page",
+      "existing_page": null,
+      "questions": [],
+      "common_modifiers": [],
+      "keywords": [
+        {
+          "keyword": "sourdough class",
+          "demand": 1300,
+          "difficulty": 22.0,
+          "intent": "transactional",
+          "intent_source": "export",
+          "position": null,
+          "url": null
+        }
+      ],
+      "id": 15
+    }
+  ],
+  "site_urls": [
+    "https://www.northwindbakery.example/",
+    "https://www.northwindbakery.example/about",
+    "https://www.northwindbakery.example/menu",
+    "https://www.northwindbakery.example/blog",
+    "https://www.northwindbakery.example/blog/sourdough-bread-recipe",
+    "https://www.northwindbakery.example/blog/sourdough-starter-guide",
+    "https://www.northwindbakery.example/blog/gluten-free-bread",
+    "https://www.northwindbakery.example/blog/croissant-recipe",
+    "https://www.northwindbakery.example/blog/cinnamon-rolls",
+    "https://www.northwindbakery.example/blog/how-to-store-bread",
+    "https://www.northwindbakery.example/blog/baking-tips",
+    "https://www.northwindbakery.example/cakes/birthday",
+    "https://www.northwindbakery.example/cakes/wedding",
+    "https://www.northwindbakery.example/classes",
+    "https://www.northwindbakery.example/bread",
+    "https://www.northwindbakery.example/pastries",
+    "https://www.northwindbakery.example/catering",
+    "https://www.northwindbakery.example/order",
+    "https://www.northwindbakery.example/locations",
+    "https://www.northwindbakery.example/contact",
+    "https://www.northwindbakery.example/gift-cards"
+  ],
+  "thresholds": {
+    "cluster_word_overlap": 0.5,
+    "page_match_word_coverage": 0.75,
+    "brief_queue_size": 15
+  },
+  "notes": [
+    "7 of 43 keywords had no intent in the export; intent was set by simple word rules, or left unclassified when no rule matched",
+    "1 duplicate keyword(s) removed; the highest demand value was kept"
+  ],
+  "client": "Northwind Bakery"
+}

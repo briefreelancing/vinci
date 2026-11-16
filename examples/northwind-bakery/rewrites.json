@@ -1,0 +1,58 @@
+{
+  "rewrites": [
+    {
+      "url": "https://www.northwindbakery.example/blog/sourdough-bread-recipe",
+      "new_title": "Sourdough Bread Recipe for Beginners | Northwind Bakery",
+      "new_description": "Bake the sourdough loaf we sell out of every day. A step-by-step recipe with timings, photos of each stage and fixes for common problems.",
+      "reason": "The title was just 'Sourdough', so it did not say this is a recipe. This page has 42,000 impressions and a 1.1% click rate against 4.4% for similar pages on this site. The new title names the recipe people search for."
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog/sourdough-starter-guide",
+      "new_title": "How to Make a Sourdough Starter | Northwind Bakery",
+      "reason": "The title was 110 characters and would be cut off in search results. The new one keeps the main phrase and fits."
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog/cinnamon-rolls",
+      "new_title": "Overnight Cinnamon Roll Recipe | Northwind Bakery",
+      "reason": "The title was 'Blog', the same as the blog home page, so search results gave no clue what the page is. The new title matches the page heading."
+    },
+    {
+      "url": "https://www.northwindbakery.example/",
+      "new_title": "Northwind Bakery | Fresh Bread, Pastries and Cakes Daily",
+      "reason": "The home page and the About page shared the title 'Northwind Bakery'. The new title keeps the name first and adds what the bakery sells, taken from the current description."
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog/gluten-free-bread",
+      "new_description": "Our gluten free bread recipe, written for home bakers: a loaf that rises, with a step-by-step method from the Northwind Bakery kitchen.",
+      "reason": "The page had no description, so search engines pick their own text. The title is fine and stays as it is."
+    },
+    {
+      "url": "https://www.northwindbakery.example/cakes/birthday",
+      "new_title": "Birthday Cakes Baked Fresh | Northwind Bakery",
+      "new_description": "Birthday cakes baked fresh by Northwind Bakery. Browse the range and order ahead for your celebration.",
+      "reason": "The click rate is 0.51% against 1.75% for similar pages on this site, and the description was only 20 characters. Kept general on purpose: if you offer delivery or custom designs, add that, since people search for both."
+    },
+    {
+      "url": "https://www.northwindbakery.example/menu",
+      "new_title": "Bakery Menu and Prices | Northwind Bakery",
+      "reason": "The title was only 'Menu'. The new one says what the page holds, using the description's own wording."
+    },
+    {
+      "url": "https://www.northwindbakery.example/contact",
+      "new_title": "Contact Us and Find Our Shops | Northwind Bakery",
+      "new_description": "Questions about an order, a cake or catering? Get in touch with the Northwind Bakery team and we will get back to you.",
+      "reason": "The description was identical to the Locations page. This one is specific to contacting the team, which also fixes the duplicate on Locations."
+    },
+    {
+      "url": "https://www.northwindbakery.example/about",
+      "new_title": "About Northwind Bakery: Our Story",
+      "new_description": "The story behind Northwind Bakery: who we are, how we bake and why everything is made fresh each morning.",
+      "reason": "The title was the same as the home page and the description was only 'Our story.' Both now say this is the About page."
+    },
+    {
+      "url": "https://www.northwindbakery.example/blog",
+      "new_title": "Recipes and Baking Tips From Our Kitchen | Northwind Bakery",
+      "reason": "The title was only 'Blog' and was shared with a recipe post. The new one describes what the blog covers, from its current description."
+    }
+  ]
+}

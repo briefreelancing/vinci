@@ -1,0 +1,22 @@
+{
+  "client": "Client name",
+  "briefs": [
+    {
+      "cluster_id": 1,
+      "primary_keyword": "exactly as in clusters.json",
+      "working_title": "At most 60 characters",
+      "meta_description": "70 to 155 characters. What the reader gets and why to click.",
+      "summary": "Why this piece is worth writing. FACT FIELD: every number here must be in clusters.json for this cluster.",
+      "search_intent": "What the searcher is trying to get done and what would satisfy them. FACT FIELD.",
+      "audience": "Who this is for, in one or two sentences.",
+      "angle": "What makes this piece worth reading over a generic one. Use what the client uniquely knows.",
+      "target_keywords": ["keywords from this cluster only", "usually 3 to 8"],
+      "questions_to_answer": ["Questions the piece must answer"],
+      "outline": [
+        {"heading": "Suggested heading", "notes": "One line on what goes here"}
+      ],
+      "internal_links": ["URLs from site_urls only; leave empty if no crawl was uploaded"],
+      "writer_notes": "Anything else: refresh vs new page, tone, what to avoid."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "client": "Northwind Bakery",
+  "briefs": [
+    {
+      "cluster_id": 2,
+      "primary_keyword": "sourdough bread recipe",
+      "working_title": "Sourdough Bread Recipe for Beginners, Step by Step",
+      "meta_description": "The sourdough loaf we bake every day, written for first-time bakers: clear timings, photos of each stage and fixes for common problems.",
+      "summary": "This is the largest recipe topic in the list: 5 keywords with 68,500 monthly searches between them, led by \"sourdough bread recipe\" at 40,500. Average difficulty is 51.8, so it will take a strong page to compete. A page already exists for it, so this is a rewrite, not a new post.",
+      "search_intent": "The searcher wants to bake a loaf at home and needs a recipe they can follow start to finish. Several of the 5 keywords add \"easy\" or \"for beginners\", so many of them have not baked sourdough before and want reassurance as much as instructions.",
+      "audience": "Home bakers making their first or second sourdough loaf. They own basic kitchen equipment and may not have a starter yet.",
+      "angle": "Written by the bakers who make this loaf for the shop every morning. Lead with what a professional watches for at each stage, and what to do when it goes wrong, which generic recipes skip.",
+      "target_keywords": [
+        "sourdough bread recipe",
+        "how to make sourdough bread",
+        "easy sourdough bread recipe",
+        "sourdough bread recipe for beginners"
+      ],
+      "questions_to_answer": [
+        "How do I make sourdough bread from start to finish?",
+        "What do I need before I begin?",
+        "How do I know the dough is ready to bake?",
+        "Why did my loaf come out flat or dense?"
+      ],
+      "outline": [
+        {"heading": "What you need before you start", "notes": "Ingredients and equipment, with substitutes for anything specialist."},
+        {"heading": "How to make sourdough bread, step by step", "notes": "The full method with timings. One photo per stage."},
+        {"heading": "A simple schedule for your first loaf", "notes": "A timeline a beginner can fit around a normal day."},
+        {"heading": "How to tell when the dough is ready", "notes": "The checks our bakers use at each stage."},
+        {"heading": "Common problems and how to fix them", "notes": "Flat loaf, dense crumb, pale crust. One short fix each."},
+        {"heading": "How to store your loaf", "notes": "Two or three lines, then link to the storage guide."}
+      ],
+      "internal_links": [
+        "https://www.northwindbakery.example/blog/sourdough-starter-guide",
+        "https://www.northwindbakery.example/blog/how-to-store-bread",
+        "https://www.northwindbakery.example/classes"
+      ],
+      "writer_notes": "Update the existing page at /blog/sourdough-bread-recipe instead of publishing a new one, so the site does not end up with two pages on the same topic. Keep the URL. Do not fold the starter instructions into this piece; link to the starter guide."
+    },
+    {
+      "cluster_id": 3,
+      "primary_keyword": "cinnamon roll recipe",
+      "working_title": "Overnight Cinnamon Roll Recipe: Soft Every Time",
+      "meta_description": "Shape the rolls at night and bake them in the morning. Our cinnamon roll recipe, with the cream cheese glaze we use in the shop.",
+      "summary": "\"Cinnamon roll recipe\" is the single most searched recipe keyword in the list at 49,500 monthly searches, and the topic totals 65,900 across 4 keywords. The existing post is an overnight recipe, which matches \"overnight cinnamon rolls\" at 6,600.",
+      "search_intent": "Most searchers want a recipe to bake at home. A smaller share are looking to buy: \"cinnamon rolls near me\" has 4,400 monthly searches, so the page should also make it easy to find the shop.",
+      "audience": "Home bakers planning a weekend breakfast or a holiday morning, who want the work done the night before.",
+      "angle": "The overnight method is the hook: mix and shape in the evening, bake fresh in the morning. Include the shop's own glaze.",
+      "target_keywords": [
+        "cinnamon roll recipe",
+        "overnight cinnamon rolls",
+        "best cinnamon rolls"
+      ],
+      "questions_to_answer": [
+        "Can I make cinnamon rolls the night before?",
+        "How do I keep cinnamon rolls soft?",
+        "How do I make the glaze?"
+      ],
+      "outline": [
+        {"heading": "Why make cinnamon rolls overnight", "notes": "The time-saving case, in a few lines."},
+        {"heading": "Ingredients", "notes": "Dough, filling and glaze listed separately."},
+        {"heading": "How to make the dough and shape the rolls", "notes": "Evening steps, with photos."},
+        {"heading": "Baking in the morning", "notes": "What to do when they come out of the fridge."},
+        {"heading": "The cream cheese glaze we use in the shop", "notes": "Short recipe and when to spread it."},
+        {"heading": "Rather buy them? Find us", "notes": "One or two lines pointing to the shops."}
+      ],
+      "internal_links": [
+        "https://www.northwindbakery.example/locations",
+        "https://www.northwindbakery.example/pastries"
+      ],
+      "writer_notes": "Update the existing page at /blog/cinnamon-rolls. Its title is currently just 'Blog', which is being fixed separately in the title review sheet."
+    },
+    {
+      "cluster_id": 7,
+      "primary_keyword": "birthday cake near me",
+      "working_title": "Birthday Cakes Baked Fresh to Order",
+      "meta_description": "Birthday cakes baked fresh by Northwind Bakery. Browse the range and order ahead for your celebration.",
+      "summary": "This is the largest topic where people are ready to buy: 4 keywords with 22,000 monthly searches, and an average difficulty of 37, lower than the recipe topics. The existing birthday cakes page is the right home for it.",
+      "search_intent": "The searcher needs a birthday cake soon and wants to know three things quickly: can I get one near me, can it be delivered or ordered online, and can it be customized. The 4 keywords cover exactly those needs.",
+      "audience": "Local customers organizing a birthday, often at short notice. They are comparing bakeries, not looking for something to read.",
+      "angle": "This is a sales page, not an article. Answer the practical questions first and make ordering the obvious next step.",
+      "target_keywords": [
+        "birthday cake near me",
+        "birthday cake delivery",
+        "custom birthday cakes",
+        "order birthday cake online"
+      ],
+      "questions_to_answer": [
+        "Where can I collect a cake, and do you deliver?",
+        "How far ahead do I need to order?",
+        "Can I choose the design, flavor and message?",
+        "How do I order online?"
+      ],
+      "outline": [
+        {"heading": "Our birthday cakes", "notes": "The range with photos. Confirm with the client what is offered."},
+        {"heading": "Custom birthday cakes", "notes": "Only if the bakery offers custom designs. Ask before writing."},
+        {"heading": "Pickup and delivery", "notes": "Which shops, and delivery details if delivery exists. Ask the client."},
+        {"heading": "How to order", "notes": "Steps and notice needed, with a clear button to the order page."}
+      ],
+      "internal_links": [
+        "https://www.northwindbakery.example/order",
+        "https://www.northwindbakery.example/locations",
+        "https://www.northwindbakery.example/cakes/wedding"
+      ],
+      "writer_notes": "Update the existing page at /cakes/birthday. Before writing, confirm with the client whether they deliver, take online cake orders and make custom designs. People search for all three, but only say what is true."
+    }
+  ]
+}

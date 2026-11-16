@@ -1,0 +1,11 @@
+{
+  "rewrites": [
+    {
+      "url": "exactly as in title_audit.json",
+      "new_title": "30 to 60 characters, including the brand ending if the page had it",
+      "new_description": "70 to 155 characters. Required when the page has a description issue.",
+      "reason": "One plain sentence for the reviewer: what was wrong and what the change is meant to do.",
+      "keyword_waived": "Leave empty. Fill in only if the target keyword does not suit this page, with the reason."
+    }
+  ]
+}
