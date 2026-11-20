@@ -16,6 +16,10 @@ It is built on one rule: **scripts calculate, Claude writes.** Grouping keywords
 measuring lengths, finding duplicates and setting priorities are done in Python. Claude writes the
 briefs and the titles. Nothing is rendered until the writing agrees with the data.
 
+![Content brief pack made by Vinci from the sample data](docs/images/brief-pack.png)
+
+![Title and description review sheet](docs/images/title-review-sheet.png)
+
 ## Start here (no coding needed)
 
 1. Download `vinci.zip` from the [latest release](../../releases/latest). Don't unzip it.
