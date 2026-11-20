@@ -131,4 +131,4 @@ builds `dist/vinci.zip`.
 
 MIT. See [LICENSE](LICENSE).
 
-Built by Brie and Claude.
+Built by Brie.
